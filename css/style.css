@@ -1,0 +1,66 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #fff;
+}
+
+.fontwrite {
+	font-size: 12px;
+	font-style: normal;
+	line-height: 15px;
+	color: #fff;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.fontred{
+	font-size: 12px;
+	font-style: normal;
+	line-height: 15px;
+	color: #4283AD;
+	font-weight:bold;
+}
+
+a, a:link, a:visited, a:active { border-width:0px;  text-decoration: none;  color:#333; }
+a:hover {
+	color:#666;
+	text-decoration: underline;
+}
+
+a.white:link, a.white:visited, a.white:active { font-size: 12px;text-decoration: none; color:#fff; }
+a.white:hover { font-size: 12px;text-decoration: underline; color:#fff;  } 
+
+form {
+	margin:0px
+}
+
+.font12 {
+	FONT-SIZE: 12px;
+	LINE-HEIGHT: 20px;
+	FONT-STYLE: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.fontgray {
+	FONT-SIZE: 12px;
+	LINE-HEIGHT: 20px;
+	FONT-STYLE: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color:gray;
+}
+
+.button {
+	BORDER-RIGHT: #b9b5a9 1px solid;
+	BORDER-TOP: #b9b5a9 0px solid;
+	BORDER-BOTTOM: #b9b5a9 1px solid;
+	BORDER-LEFT: #b9b5a9 0px solid;
+	MARGIN-TOP: 2px;
+	BACKGROUND: #fff;
+	WIDTH: 80px;
+	COLOR: #959595;
+	LINE-HEIGHT: 20px;
+	HEIGHT: 20px;
+	TEXT-ALIGN: center
+}
